@@ -1,5 +1,5 @@
 # ============================================================================
-# app4.py  –  AgriBot Weed Detection Rover Dashboard
+# app.py  –  AgriBot Weed Detection Rover Dashboard
 # ============================================================================
 # Key design decisions:
 #  • Raw YOLOv5 output ONLY – no secondary colour / plant filter.
