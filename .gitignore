@@ -1,0 +1,8 @@
+.venv/
+test/
+.streamlit/
+app.py
+app2.py
+app3.py
+_pycache_/
+yolov5/
